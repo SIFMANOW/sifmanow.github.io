@@ -30,7 +30,8 @@
          read read-syntax get-info
          page
          make-id
-         ref-id)
+         ref-id
+         project-root-dir)
 
 (define (header #:rest [rest '()] . v)
   @head{
@@ -189,6 +190,8 @@
                  #:launch-browser? #t))
 
 (define (build!)
+  ;; Make bldres dir
+  (make-directory* (build-path project-root-dir "bldres"))
   ;; Build HTML files
   (for ([f (in-list files)])
     (unless (equal? (path-get-extension f) #".html")
@@ -197,7 +200,6 @@
         (lambda ()
           (dynamic-require f 0)))))
   ;; Build Images
-  (make-directory* (build-path project-root-dir "bldres"))
   (for ([i (in-directory (build-path project-root-dir "res"))])
     (define img (pict:scale-to-fit (pict:bitmap i) 300 300))
     (define type (case (path-get-extension i)
@@ -253,8 +255,16 @@
 
 (module* lang racket
   (require (submod "..")
+           (prefix-in pict: pict)
+           racket/class
+           racket/file
+           racket/path
            markdown)
   (provide (all-from-out (submod ".."))
+           (all-from-out pict)
+           (all-from-out racket/class)
+           (all-from-out racket/file)
+           (all-from-out racket/path)
            markdown)
   (define (markdown . str)
     (literal (map xexpr->string (parse-markdown (apply string-append str))))))
