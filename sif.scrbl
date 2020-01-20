@@ -443,13 +443,651 @@
   Annals of Internal Medicine • Vol. 168 No. 9 • 1 May 2018}))
    
 
- @a[name: "national"]
- @h1{National news coverage}
-
  @a[name: "news"]
+ @h1{SIF/SCSs in the news}
+
+ @(accordion (list "Boston Globe"
+                   @markdown{
+# Follow the data, governor: sites for injections work
+
+## May 8, 2017 Editorial
+
+  LAST SPRING, AFTER signing legislation aimed at curbing
+  opioid abuse at a State House ceremony, Governor Charlie
+  Baker broke down in tears.
+
+  Only after a swell of applause from a large crowd of
+  legislators, law enforcement officials, and families of
+  overdose victims was he able to speak. “May today’s bill
+  passage signal to you that the Commonwealth is listening,”
+  he said, “and we will keep fighting for all of you.”
+
+  The governor can be an emotional leader. But he also touts
+  his data-driven approach to governance. And the data, it
+  must be said, do not look good.
+
+  Last year, almost 2,000 people are believed to have died of
+  opioid overdoses in Massachusetts, according to state
+  officials, a record toll that defied a new wave of treatment
+  and education efforts — including some high-profile measures
+  in the bill Baker signed that spring day.
+
+  At the top of the list: clinics where addicts can shoot up
+  under the watchful eye of doctors and nurses — offering
+  clean needles, drugs that can reverse overdoses, and
+  referrals to drug treatment.
+
+  Last weekend, the push for supervised drug-injection sites
+  got a big boost when the Massachusetts Medical Society’s
+  governing body voted overwhelmingly to urge a state-run
+  pilot program that would allow for up to two such clinics in
+  the state.
+
+  There are already 90 of these facilities worldwide, and the
+  data — take note, governor — are quite promising. After a
+  clinic opened in Vancouver, in 2003, researchers found a 35
+  percent decrease in overdoses in the surrounding
+  neighborhood, compared to a 9 percent decline citywide.
+  Ambulance calls for overdoses near a Sydney facility dropped
+  by 68 percent.
+
+  There are dozens of peer-reviewed studies — more than 40 now
+  — and some of them have appeared in the world’s most
+  prestigious medical journals.
+
+  “This work is published in the Lancet and The New England
+  Journal of Medicine,” said Dr. Thomas Kerr, a professor of
+  medicine at the University of British Columbia who has
+  studied the Vancouver clinic. “It doesn’t get tougher than
+  that.”
+
+  The drug-injection sites have their critics, of course. The
+  studies, however, rebut some of the most prominent
+  objections. Intravenous drug use does not increase in the
+  areas where clinics operate, the research shows. And opening
+  a facility does not have a “honey pot” effect, drawing drug
+  dealers and prostitutes to the area.
+
+  After studying six years of crime data for the area
+  surrounding the Vancouver clinic, criminologist Neil Boyd
+  told The Globe and Mail newspaper, “our detailed maps
+  confirmed the hypothesis of no impact, no significant
+  changes in relation to criminal offenses.”
+
+  A separate study appearing in the journal Substance Abuse
+  Treatment, Prevention, and Policy found no gain in drug
+  trafficking or robberies and assaults in the neighborhood.
+  Vehicle break-ins and thefts actually declined.
+
+  There are significant legal obstacles to opening
+  drug-injection sites in Massachusetts. State and federal law
+  bars the clinics, and getting an exemption from a
+  GOP-controlled Washington would be no small task.
+
+  But there is some precedent. In recent years, the federal
+  government has looked the other way as states have legalized
+  marijuana; indeed, Massachusetts is counting on that
+  forbearance now as it rolls out its own regulatory setup for
+  legal pot.
+
+  And with hundreds and hundreds of people dying of opioid
+  overdoses every year, policy makers should be willing to
+  take some chances here. “We will keep fighting for all of
+  you,” Baker promised, a year ago.
+
+  Fulfilling that promise means supporting solutions that work
+  — no matter how controversial.})
+             
+             (list "New York Times"
+                   @markdown{
+  # Let Cities Open Safe Injection Sites
+  ## By The Editorial Board
+
+  An overdose is often a lonely way to die. Overdoses happen
+  when a toxic amount of a drug, or a combination of drugs,
+  overwhelms the body’s basic functions, first slowing and
+  eventually stopping the brain’s drive to breathe. If someone
+  notices the signs of an overdose — lips turning blue,
+  restricted pupils, unresponsiveness, a loss of
+  consciousness, among others — it can generally be reversed
+  with drugs like naloxone, which saves thousands of lives a
+  year. But someone must be there to notice.
+
+  Yet one of the most consistent patterns in the more than
+  64,000 deaths attributed to opioid and other drug overdoses
+  in 2016 was that the victims’ last moments went unobserved.
+  Last year, the number of deaths was most likely even higher.
+
+  In the face of this emergency, dedicated public health
+  officials and policymakers have suggested some vital
+  solutions. One important, rigorously tested harm-reduction
+  method, however, is still rarely discussed in the United
+  States: supervised drug consumption sites, also known as
+  safe injection sites. This must change. All evidence so far
+  shows these facilities have proved incredibly effective at
+  slashing overdose deaths in every country that has welcomed
+  them. If lawmakers are serious about ending the opioid
+  crisis, American cities and states should follow their lead.
+
+  At safe injection sites, trained staffs provide clean
+  needles, administer naloxone when there are overdoses and
+  offer long-term treatment options. People bring their own
+  drugs — most often heroin.
+
+  It may seem counterintuitive: Give drug users space and
+  support to inject themselves with potentially deadly
+  substances, even while encouraging them to stop.
+
+  But dozens of studies suggest that these sites curtail
+  overdose deaths and increase participation in drug
+  treatment. Despite millions of injections that have occurred
+  at more than 90 facilities internationally over the past
+  three decades, not a single overdose death has been
+  recorded.
+
+  The Trump administration has threatened to prosecute safe
+  injection sites under federal law. But just as cities and
+  states have legalized medical and recreational marijuana,
+  they could also pass laws authorizing these sites,
+  preventing the local police from intervening. Federal law
+  enforcement could then either turn a blind eye, as it’s
+  largely done with marijuana, or bring states to court.
+
+  People are dying at a staggering rate from overdoses — more
+  in one year than the number of American soldiers who died
+  during the entire Vietnam War. So some cities are already,
+  rightly, taking the risk. Seattle and San Francisco are both
+  on track to open sites, and Philadelphia recently approved
+  the idea as well. Boston, Ithaca and New York City are
+  considering their own facilities.
+
+  At the first supervised site in North America, which opened
+  in Vancouver in 2003, there was a 35 percent reduction in
+  overdose deaths in the immediate vicinity, compared with a
+  nine percent reduction in the rest of the city, according to
+  a study published in The Lancet.
+
+  And four separate studies have shown a positive association
+  between using a safe injection site and starting addiction
+  treatment.
+
+  Neighbors and city officials sometimes challenge sites like
+  these because they fear they will promote drug use and
+  increase crime. Research instead suggests that they lead to
+  increases in public order, with fewer discarded needles on
+  the street and less drug use on the sidewalk, and have no
+  impact on drug-related crimes.
+
+  Such sites certainly don’t solve the problem of drug
+  overdoses — Vancouver has had a recent spike in
+  fentanyl-related overdose deaths, for instance. But they’re
+  effective as part of a larger harm-reduction movement, which
+  assumes that no matter how many well-intentioned programs
+  exist to prevent people from starting or continuing to use
+  drugs, there will always be people who shoot up. It’s better
+  for everyone, the thinking goes, if they do that as safely
+  as possible, with clean needles that are discarded properly.
+  If the goal is to get drug users into treatment, the first
+  step is to make sure they don’t die.
+
+  So far, President Trump has advocated the opposite approach,
+  focusing on law enforcement instead of harm reduction and
+  promising to be “really, really tough” on people who deal
+  drugs — an old idea that hasn’t worked to save lives. The
+  administration’s 2019 budget plan proposed $13 billion over
+  two years to address the opioid crisis, but it didn’t
+  include much detail about what, exactly, that money would
+  fund. In December, the attorney general’s office made its
+  position on safe injection sites clear in response to a
+  proposed facility in Vermont: “It is a crime, not only to
+  use illicit narcotics, but to manage and maintain sites on
+  which such drugs are used and distributed.”
+
+  “In short, opiate addicts need treatment, not a place to
+  continue using,” the office wrote.
+
+  Advocates agree on the need for evidence-based treatment and
+  services to help homeless drug users find housing or mental
+  health care, but that’s not a reason to prosecute people
+  trying to save lives at safe injection sites.
+
+  There is at least one unauthorized, invitation-only site in
+  the United States that a small nonprofit has been secretly
+  running, in an unadvertised location, for more than three
+  years. Staff members have been able to reverse all eight
+  overdoses that have occurred on-site.
+
+  Critics of such sites raise legitimate concerns about
+  normalizing drug use that could be fatal. But so far, the
+  wealth of available evidence shows two things: Most of
+  America’s past policies have failed catastrophically, and
+  the regions that have tried these sites have saved people.
+
+  States and other cities should follow the lead of Seattle
+  and Philadelphia to open safe injection sites. One of the
+  most meaningful things the Trump administration could do to
+  help drug users and their families is to stay out of the
+  way.
+
+  A version of this article appears in print on February 25,
+  2018, on Page SR10 of the New York edition with the
+  headline: Let Cities Open Safe Injection Sites.})
+
+             (list "USA Today"
+                   @markdown{
+  # War on drugs requires new tactics: Our view
+  ## The Editorial Board , USA TODAY Published 4:56 p.m. ET May 16, 2016 | Updated 6:39 p.m. ET May 16, 2016
+
+  Supervised heroin injection sites show promise in Canada,
+  Europe.
+
+  With an average 78 Americans dying each day from overdoses
+  of prescription opioid painkillers and heroin, it’s clear
+  that the U.S. is losing the war on drugs. The epidemic has
+  spread to suburbia and rural areas. The death toll from
+  heroin has more than tripled since 2010. And the nation is
+  desperate for answers.
+
+  Congress is working on bipartisan measures that would give
+  states, localities and non-profit groups money to finance an
+  array of education, treatment and law enforcement programs.
+  Final passage can’t come a moment too soon. But it’s all
+  rather standard fare.
+
+  To deal with people who are already addicted, some
+  unconventional thinking is required, and here’s one idea
+  worth considering: supervised injection facilities, where an
+  addict can bring heroin and inject it in a clean, safe
+  environment under medical supervision, with easy access to
+  counselors and health care referrals.
+
+  Yes, we know, this might look crazy at first glance. We
+  thought so, too, but the results where this approach has
+  been tried suggest it just might make sense.
+
+  This is not a ploy to legalize heroin, weaken law
+  enforcement or replace treatment. It’s an idea that has been
+  effective in Europe, where about 90 such centers operate,
+  and in Vancouver, where the only center in North America
+  opened in 2003.
+
+  According to researchers at the University of British
+  Columbia and the Center for Excellence in HIV/AIDS, the
+  Canadian center has prevented overdose deaths, reduced the
+  risk of HIV and AIDS through the use of clean needles, cut
+  down on public injections and their dangerous debris of used
+  needles, and promoted detox and treatment.
+
+  The facility, called Insite, has saved lives after on-site
+  overdoses, and in the 27 months after it opened, overdose
+  deaths dropped 35% in the blocks around the facility — four
+  times the decrease in the rest of Vancouver. The facility,
+  which receives funding from the British Columbia government,
+  has saved taxpayers money by reducing expensive-to-treat HIV
+  and AIDS cases.
+
+  Critics have tried to debunk findings of Insite’s success,
+  and in the mid-2000s, a new Conservative Party prime
+  minister moved to shut it down. But the battle became the
+  center’s savior. National medical, public health, and nurses
+  associations intervened on its side, and in 2011 the
+  Canadian Supreme Court unanimously rejected closure, finding
+  that “during its eight years of operation, Insite has been
+  proven to save lives with no discernible negative impact on
+  the public safety and health objectives of Canada.” That
+  opened the way for more facilities. Now Toronto, Montreal
+  and Ottawaare considering the idea.
+
+  In Europe, such injection centers have been around for 30
+  years. Since the first one opened in Switzerland, the idea
+  has spread to Germany, the Netherlands, Luxembourg, Denmark,
+  Norway and even Sydney, Australia. Like Insite, they’ve made
+  it more likely that addicts will enter treatment, according
+  to the European Monitoring Center for Drugs and Drug
+  Addiction. Not surprising, when you put the hardest-to-reach
+  addicts in a place where counseling is readily available.
+
+  Impressed by these results, a handful of city officials and
+  state lawmakers in the USA are interested. The mayor of
+  Ithaca, N.Y., is pushing the idea, and the county prosecutor
+  is on board. In Seattle’s King County, Sheriff John
+  Urquhart, a former narcotics detective, told TheSeattle
+  Times he is “still trying to wrap my head around this. But
+  the more I hear, the more open I am to the possibility.”
+
+  Critics remain adamant that the idea is preposterous,
+  tantamount to declaring surrender in the war on drugs and
+  turning the government into an enabler of illegal drug use.
+  The same arguments were used against methadone clinics and
+  needle exchanges, which now have widespread acceptance.
+
+  Vancouver’s experience can inform U.S. decisions: Start
+  small with modest goals — bringing addicts off the streets,
+  preventing disease and overdoses — and provide rigorous,
+  independent research to see whether similar programs can
+  work here.})
+             (list "Associated Press"
+                   @markdown{
+  # Once unthinkable in US, drug shoot-up rooms get serious look
+  ## By DAVID KLEPPER
+  ### May. 8, 2016 9:46 PM EDT
+
+  Across the United States, heroin users have died in alleys
+  behind convenience stores, on city sidewalks and in the
+  bathrooms of fast-food joints — because no one was around to
+  save them when they overdosed.
+
+  An alarming 47,000 American overdose deaths in 2014 — 60
+  percent from heroin and related painkillers like fentanyl —
+  has pushed elected leaders from coast to coast to consider
+  what was once unthinkable: government-sanctioned sites where
+  users can shoot up under the supervision of a doctor or
+  nurse who can administer an antidote if necessary.
+
+  “Things are getting out of control. We have to find things
+  we can do for people who are addicted now,” said New York
+  state Assemblywoman Linda Rosenthal, who is working on
+  legislation to allow supervised injection sites that would
+  also include space for treatment services. “The idea
+  shouldn’t be dismissed out of hand. I don’t see anyone else
+  coming up with anything new and innovative.”
+
+  Critics of the war on drugs have long talked about the need
+  for a new approach to addiction, but the idea of allowing
+  supervised injection sites is now coming from state
+  lawmakers in New York, Maryland and California, along with
+  city officials in Seattle, San Francisco and Ithaca, New
+  York, who note that syringe exchanges were once
+  controversial but now operate in 33 states.
+
+  While such sites have operated for years in places such as
+  Canada, the Netherlands and Australia, they face significant
+  legal and political challenges in the U.S., including
+  criticism that they are tantamount to waving a white flag at
+  an epidemic that should be fought with prevention and
+  treatment.
+
+  “It’s a dangerous idea,” said John Walters, drug czar under
+  President George W. Bush. “It’s advocated by people who seem
+  to think that the way we should help sick people is by
+  keeping them sick, but comfortably sick.”
+
+  But proponents argue such sites are not so radical outside
+  the U.S., pointing to examples where they offer not only a
+  place to shoot up, but also health care, counseling and even
+  treatment beds. In many cases, the users are there to shoot
+  up heroin or dangerous opioids like fentanyl, though some
+  take painkillers in pill form.
+
+  At Sydney’s Medically Supervised Injecting Centre, more than
+  5,900 people have overdosed since it opened in 2001. No one
+  has died. It’s the same at Insite in Vancouver, British
+  Columbia. About 20 overdoses happen there every week, but
+  the facility, which is jointly operated by a local nonprofit
+  and the Vancouver Coastal Health Authority, has yet to
+  record a death.
+
+  “A big fat zero,” said Insite site coordinator Darwin
+  Fisher.
+
+  Sydney’s facility is tucked between a hostel and a Chinese
+  restaurant in Kings Cross, the city’s red-light district.
+  Aside from the security guard posted just inside the front
+  door, it looks like a typical health clinic.
+
+  At least two staffers, including a registered nurse, monitor
+  the injection room. They are not allowed to administer
+  drugs, though sterile needles are provided. If a patient
+  overdoses, the nurse delivers the antidote Narcan, which
+  quickly reverses the overdose.
+
+  After users get their fix, they head to a second room with a
+  decidedly warmer feel. Colored Christmas lights hang from
+  the ceiling; books and magazines line the shelves. Clients
+  can relax with a cup of coffee or tea or talk to staff. Some
+  stay for 15 minutes; others spend hours. They exit through a
+  back door to protect their privacy.
+
+  The center opened on an 18-month trial basis following a
+  sharp increase in heroin use in Sydney. The trial was
+  repeatedly extended by government officials until 2010, when
+  it was granted permanent status. It’s run by the social
+  services arm of the Uniting Church and is funded by
+  police-seized proceeds of various crimes.
+
+  A clinic in Amsterdam — one of three injection sites in the
+  Dutch capital — goes even further, distributing free heroin
+  to long-term addicts as part of a government program created
+  for hardened addicts who might otherwise commit a crime to
+  pay for their fix.
+
+  About 80 users visit up to three times a day. Most are men,
+  and the average age is 60. Many began using in the 1970s and
+  1980s.
+
+  “We would ideally like them to cut back their use,” said
+  Fleur Clarijs, a doctor at the facility.
+
+  But, she said, the main objective of the facility is to
+  reduce risk to users — and their effects on the community.
+
+  In Vancouver’s seedy Downtown Eastside neighborhood, Insite
+  offers patients treatment services just up the stairs from
+  where they shoot up. About a third of Insite’s visitors
+  request referral to a detox program, the clinic said.
+
+  A woman who gave her name as Rhea Jean spoke to The
+  Associated Press after recently injecting herself there. She
+  felt nauseous and ran outside to the curb to vomit. Her face
+  covered with scabs, the longtime heroin user looks far older
+  than her 33 years.
+
+  “It’s a great place for active users in full-blown
+  addiction. It links you up to other programs,” said Jean,
+  who herself hasn’t sought treatment through Insite.
+
+  A 65-year-old man who gave his name only as James because
+  he’s in a 12-step program that requires anonymity said he
+  has been using heroin since age 22. He was clean for 17
+  years before relapsing; he said he was sexually abused as a
+  child and spent 23 years in prison.
+
+  He keeps returning to heroin, he said, because it provides
+  release from his problems. Insite is the one place he can go
+  and be treated if he reacts badly to the drug, he said.
+
+  “They saved my life three times,” he said, adding that
+  addiction shouldn’t be demonized.
+
+  “There’s a large section of society that still refuses to
+  accept it as a disease,” he said.
+
+  The three clinics visited by the AP initially faced
+  opposition from politicians and members of the public but
+  gradually won support, in part because of studies showing
+  reductions in overdose deaths and open-air drug use in the
+  surrounding community.
+
+  A 2010 survey of residents and businesses in Kings Cross,
+  for instance, found strong support.
+
+  Insite was targeted for closure by Canadian Prime Minister
+  Stephen Harper and his Conservative Party. The case went to
+  the Supreme Court of Canada, which in 2011 told the
+  government to issue an exemption to the drug laws allowing
+  Insite to operate.
+
+  “Insite saves lives,” Chief Justice Beverley McLachlin wrote
+  in the decision. “Its benefits have been proven. There has
+  been no discernible negative impact on the public safety and
+  health objectives of Canada during its eight years of
+  operation.”
+
+  Advocates in the U.S. have long discussed the potential
+  benefits of injection sites — but they point to the tripling
+  of heroin and opioid overdose deaths since 2000 as one
+  reason why the suggestion is starting to get serious
+  consideration.
+
+  The deaths of actors Philip Seymour Hoffman and Heath Ledger
+  put celebrity faces on the risks of overdosing alone, and it
+  was revealed recently that representatives for Prince sought
+  help for his addiction to painkillers just a day before the
+  musician was found dead.
+
+  In an effort to stay safe, some addicts are taking matters
+  into their own hands. In Boston, after Massachusetts General
+  Hospital equipped security guards with Narcan, the hospital
+  began seeing an uptick in addicts shooting up in bathrooms
+  and parking garages.
+
+  Elsewhere in the city, a nonprofit recently set aside a room
+  where addicts can go after using drugs. The users can’t
+  inject there, but a nurse monitors those in the room and
+  will intervene in case of overdose.
+
+  U.S. federal law effectively prohibits injection facilities,
+  but supporters say that if a state or city were to authorize
+  one, Washington officials could adopt a hands-off approach
+  similar to the federal response to state medical marijuana
+  programs.
+
+  Kevin Sabet, a former drug policy adviser to the Obama
+  administration, put the chances of injection sites getting
+  approval anytime soon at zero. He believes supporters want
+  full legalization of all drugs and are exploiting the opioid
+  crisis to advance their agenda.
+
+  California Assemblyman Tom Lackey, who served on the
+  California Highway Patrol for 28 years, said he understands
+  that supporters are looking for a new approach. But he has
+  deep reservations about legislation in his state which would
+  create clinics where users could use heroin, crack or other
+  drugs.
+
+  “These facilities send a message that there is a safe use,
+  and I don’t think there is any safe use of heroin,” he said.
+
+  In Maryland, state House of Delegates member Dan Morhaim is
+  an emergency physician who himself has administered Narcan
+  “many, many times.” He sees his bill for supervised
+  injection sites as just one of many creative approaches that
+  will be needed to solve the heroin problem.
+
+  “It’s not going to cure everyone,” he said. “But moving
+  people from more dangerous behavior to less dangerous
+  behavior is progress.”
+
+  Marianne Jauncey, medical director at Sydney’s Medically
+  Supervised Injecting Centre, said she would prefer better
+  ways to help hardened addicts. Her facility will work to
+  keep them alive until that happens.
+
+  “Given their histories,” she said, “I think the least that
+  we can do as a society is try.”
+
+  ___
+
+
+  Klepper reported from Albany, New York. Contributing to
+  this report were Associated Press writers Mike Corder in
+  Amsterdam, Kristen Gelineau in Sydney and Jeremy Hainsworth
+  in Vancouver.}))
+
+ @a[name: "sifma"]
  @h1{SIFMA NOW in the news}
+
+ @(accordion (list "CBS Boston"
+              @markdown{
+ # Advocates Push For Safe Injection Sites In Boston
+
+  ## By Liam Martin April 30, 2018 at 5:27 pm
+
+  BOSTON (CBS) – Boston advocates for controversial “safe
+  injection sites” made a public push Monday. Along with
+  information, they gave people an up close look at how they
+  say these sites can prevent overdoses and save lives.
+
+  We’re painfully aware of heroin users overdosing in back
+  alleys, under bridges and even in public buildings, with the
+  death toll a national crisis. Today, medical students and
+  other advocates for what are called safe injection
+  facilities took their campaign to the Harvard Medical School
+  quad, talking to people about why they think Massachusetts
+  should open the controversial sites.
+
+  “People who would otherwise be injecting and overdosing
+  alone on the street could come in and receive medical care,
+  be supervised so they’re using substances safely, and are
+  connected to long term treatment,” says Kathleen Koenigs, a
+  first year medical student and a member of the Student
+  Coalition on Addiction.
+
+  They even set up an area that simulates what an injection
+  site would look like. A simple desk with sterile syringes
+  and Narcan in case of an overdose. Medical staff would be on
+  hand for safety.
+
+  It’s modeled after this injection facility in Vancouver that
+  has operated for 15 years. “We don’t want to lose any more
+  of our family members, our neighbors,” says Aubri Esters of
+  Safe Injection Facilities Now.
+
+  The facilities would look at addiction as a medical problem
+  and offer treatment. “It’s an avenue for treatment. It’s an
+  avenue for increased health and it’s an avenue to keep
+  people alive,” she says.
+
+  While there are several bills at the State House that would
+  allow for these facilities, it’s a tough sell. Gov. Baker
+  isn’t convinced. “I really want to see literature that
+  demonstrates, one way or the other, whether this helps
+  people get better,” he says.
+
+  Even if Beacon Hill approved, the sites would still be
+  illegal at the federal level. Right now there are about 100
+  supervised injection sites around the world. None in the
+  United States. In addition to Boston, people in
+  Philadelphia, Seattle and San Francisco are considering
+  whether the facilities would be effective in their
+  communities.}))
 
  @a[name: "videos"]
  @h1{Videos}
  
+
+ @(accordion (list "What’s Stopping Us?"
+                   (youtube "sI6iH3wDqdo"))
+             (list "Old Addictions, New Hope"
+                   (youtube "vVIxXM_nn0Y"))
+             (list "A front line doctor lays out the case for supervised injection facilities"
+                   (youtube "S-_Hh6G0aco"))
+             (list "I’m the guy finding the needles!"
+                   (youtube "0vkQnyaw8qw"))
+             (list "Cops, docs, and drug users on a remarkable panel about safe injection sites for Boston"
+                   (youtube "3dzgzvEdT6k"))
+             (list "Hear from a State Representative about the urgency of creating safe injection facilities"
+                   (youtube "SA_Xeg3l1C8"))
+             (list "An AIDS activist speaks out about SIFs"
+                   (youtube "8rNxPtWjo70"))
+             (list "A top Boston University Addiction Specialist on SIFs"
+                   (youtube "V_dY7bdXRjY"))
+             (list "A detailed proof of the effectiveness of supervised injection facilities"
+                   (youtube "w1PyxdaMT8o"))
+             (list "LEAP visits a Supervised Injection Site (Produced by Bill Fried for Law Enforcement Action Partnership)"
+                   (youtube "HFAG7vDZRnA"))
+             (list "The Portuguese Drug Czar “meets” an American Narcotics Officer"
+                   (youtube "FeshX8TsMrg"))
+             (list "Place Where You Don’t Have to Die"
+                   (youtube "Sipsy7_CDNY"))
+             (list "What Happens When Drug Users are not Seen as Criminals?"
+                   (youtube "p52rhrK45-g"))
+             (list "Portugal Figures out Difference Between Drug Use and Drug Abuse"
+                   (youtube "aM3VSu-yLYM"))
+             (list "New York Times video"
+                   (youtube "v6NJPjpelKM"))
+             (list "Anywhere but safe: Public Injecting in New York (documentary by Matt Curtis)"
+                   (youtube "uDOWVsxtfQQ"))
+             (list "A Safe Injection Site saves lives and controls HIV"
+                   (youtube "1b4rv9Y3eI8")))
 }

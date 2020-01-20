@@ -9,8 +9,13 @@
                  alt: "SIF MA NOW!" height: 200 width: 533]}
     @center{@h1{Join us in the fight and help to SAVE LIVES NOW!}}
 
- @p{@center{SIF MA Now is a growing coalition of medical and public health professionals and organizations, current and former substance users, law enforcement and criminal justice
-  professionals, social justice groups, and concerned Massachusetts residents who believe that safe consumption sites (SCSs) are one important evidence-based solution to problems related to drug use in Massachusetts.}}
+    @center{@h4{SIF MA Now is a growing coalition of medical
+      and public health professionals and organizations, current
+      and former substance users, law enforcement and criminal
+      justice professionals, social justice groups, and concerned
+      Massachusetts residents who believe that safe consumption
+      sites (SCSs) are one important evidence-based solution to
+      problems related to drug use in Massachusetts.}}
 
     @center{
      @a[class: "btn btn-default btn-lg btn-oval"

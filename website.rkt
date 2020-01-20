@@ -118,8 +118,8 @@
     ("Gallery" "gallery.scrbl")
     ("SIF/SCS" "sif.scrbl"
                ("What do the experts say?" . "experts")
-               ("National news coverage" . "national")
-               ("SIFMA NOW in the news" . "news")
+               ("SIF/SCSs in the news" . "news")
+               ("SIFMA NOW in the news" . "sifma")
                ("Videos" . "videos"))
     ("Latest Updates" "updates.scrbl")
     ("Contact Us" "contact.scrbl"))))
@@ -265,6 +265,14 @@
            (all-from-out racket/class)
            (all-from-out racket/file)
            (all-from-out racket/path)
+           youtube
            markdown)
   (define (markdown . str)
-    (literal (map xexpr->string (parse-markdown (apply string-append str))))))
+    (literal (map xexpr->string (parse-markdown (apply string-append str)))))
+
+  (define (youtube url)
+    @iframe[width: "560" height: "315"
+            src: (format "https://www.youtube-nocookie.com/embed/~a" url)
+            frameborder: "0"
+            allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen: #t]))
