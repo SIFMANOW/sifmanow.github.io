@@ -992,7 +992,116 @@
   Klepper reported from Albany, New York. Contributing to
   this report were Associated Press writers Mike Corder in
   Amsterdam, Kristen Gelineau in Sydney and Jeremy Hainsworth
-  in Vancouver.}))
+  in Vancouver.})
+             
+             (list "Daily Hampshire Gazette"
+                   @markdown{
+# Editorial: Safe injection sites worth considering
+
+  Syringes left by drug users amid the heroin crisis are
+  turning up everywhere.
+
+  Northwestern District Attorney David E. Sullivan is right to
+  call for “outside-the-box thinking” — including supervised
+  injection facilities — to combat the scourge of opioid
+  deaths plaguing communities in the Valley and across the
+  country.
+
+  Sullivan also is correct when he describes as radical the
+  concept of sanctioned places where people can inject illegal
+  drugs such as heroin in medically supervised settings. Those
+  facilities should be established only after careful study
+  addressing issues including locating them in places that are
+  easily accessible to people who are addicted and ensuring
+  that those drug users are educated about treatment programs.
+
+  “Supervised injection facilities are not suitable for all
+  communities — they may not be cost effective except in large
+  cities,” Sullivan wrote in a column published in January by
+  the Daily Hampshire Gazette. “But I think they, and the
+  approach they take in treating drug users with care, are an
+  option worthy of consideration as we suffer the toll this
+  epidemic takes in lost lives and shattered families and
+  communities.”
+
+  Sullivan joins an increasing number of health officials and
+  politicians who are advocating for supervised sites that
+  provide sterile injection equipment, access to medical
+  staff, information about reducing the harm of drug use and
+  referrals to addiction treatment. No such safe sites
+  currently operate legally in the United States, and, in
+  fact, they are illegal under federal law.
+
+  However, there are about 100 such facilities in nine other
+  countries, mostly in Europe as well as Australia and Canada.
+  The first in North America, Insite, opened in 2003 in
+  Vancouver, British Columbia. Nurses at Insite have
+  supervised drug injections by some 3.6 million people in 15
+  years, and while there have been more than 6,000 overdoses,
+  no one has died there, according to the Associated Press.
+
+  In 2016, there were 2,069 unintentional deaths in
+  Massachusetts related to opioids, including heroin, fentanyl
+  and prescription pain pills such as OxyContin.
+
+  State Sen. William Brownsberger, D-Belmont, has filed
+  legislation that would allow state health officials to
+  permit safe injection sites. He said the intent of the bill,
+  which awaits action, is to save lives and get addicts into
+  treatment.
+
+  The Massachusetts Medical Society and Massachusetts Hospital
+  Association support consideration of supervised injection
+  facilities. The medical society issued a report last year
+  citing research at the sites in Canada and Australia that
+  suggests they reduce overdose deaths and increase access to
+  drug treatment. The medical society recommended establishing
+  a pilot supervised injection facility program in
+  Massachusetts, and to seek an exemption from federal drug
+  laws.
+
+  However, there are skeptics, including Republican Gov.
+  Charlie Baker. He testified at a Statehouse hearing in
+  January on legislation he filed addressing the opioid crisis
+  that, among other things, would permit police and medical
+  professionals to bring high-risk drug users to substance
+  abuse treatment centers for up to 72 hours, even if they do
+  not agree. The bill does not call for supervised injection
+  sites.
+
+  “As far as the data I’ve seen is concerned, it has not
+  demonstrated any legitimate success in creating a pathway to
+  treatment,” Baker said. “The harm reduction argument I think
+  is a much better one, but I’m kind of a hard sell on that
+  one.”
+
+  Also last month, Philadelphia officials announced that the
+  city is seeking private organizations to set up medically
+  supervised drug injection facilities that also would offer
+  access to sterile needles, the overdose-reversing drug
+  naloxone (known by its brand name Narcan) and referral to
+  treatment and social services.
+
+  Philadelphia officials visited Insite in Vancouver, as well
+  as Seattle, where the City Council has included $1.3 million
+  in the 2018 budget for a safe injection site. Philadelphia
+  officials also released a scientific review of studies
+  concluding that such facilities reduce deaths from drug
+  overdoses; prevent HIV, Hepatitis C and other infections;
+  and help drug users get into treatment.
+
+  Sullivan wrote in his column, “For people who think this
+  idea is too radical, I would say this: In order to save
+  lives, we need to look in a clear-eyed, rational way at what
+  works and what doesn’t work.”
+
+  We hope the state approves legislation clearing the way for
+  a pilot safe injections site. We encourage its placement in
+  Hampshire or Franklin county where the top law enforcement
+  official has a progressive view about using all possible
+  tools to combat addiction.
+
+  }))
 
  @a[name: "sifma"]
  @h1{SIFMA NOW in the news}
