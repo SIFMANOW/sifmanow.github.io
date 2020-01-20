@@ -1101,7 +1101,101 @@
   official has a progressive view about using all possible
   tools to combat addiction.
 
-  }))
+  })
+             (list "San Francisco Chronicle"
+                   @markdown{
+  # EDITORIAL: CITY-SPONSORED DRUG-INJECTION SITES CAN SAVE LIVES  CHRONICLE EDITORIAL BOARD
+  ## February 6, 2018
+
+  San Francisco has more than 20,000 injection-drug users.
+  Injection sites are an innovation that can reduce fatal
+  overdoses by addicts and accidental needle sticks on the
+  streets.
+
+  The idea of a city-sponsored drug-injection site at first
+  sounds baffling and dangerous. To some, providing
+  comfortable quarters and needles to shoot up is the last
+  thing a city should do to curb drug users sprawling across
+  sidewalks and parks.
+
+  But San Francisco, along with other major cities, is on
+  track to do just that — and the plan makes sense. It’s a
+  real-world answer that can lessen a runaway problem, prevent
+  deaths and offer a pathway from addiction. Safe-injection
+  sites have found support and success in dozens of cities in
+  Canada, Europe and Australia.
+
+  Between now and July, city Health Director Barbara Garcia
+  plans to clarify the scope and operations of the local
+  sites. Her department has worked on the idea for months,
+  mindful of the legal and health hazards that go along with
+  enabling illegal drug use.
+
+  There are reasons for caution, but the idea is neither
+  far-fetched nor implausible. San Francisco has more than
+  20,000 injection-drug users, a figure that accounts for a
+  demoralizing sight of discarded syringes and open drug use
+  throughout the city. Anyone walking by a huddled group
+  splayed on the pavement should want the city to come up with
+  an answer.
+
+  Offering a controlled setting indoors can help. It’s
+  expected there will be medical oversight and counseling,
+  clean needles, and safe surroundings. Police involvement to
+  prevent drug sales needs to be worked out.
+
+  Until now, San Francisco and other cities were stalled over
+  legal and perceptual problems. Opening the doors ran afoul
+  of a raft of laws barring drug use. The city could be liable
+  if an addict overdosed. Even an ever-tolerant city wasn’t
+  completely sold that allowing serious drug use would produce
+  anything but trouble.
+
+  But city leaders are sidestepping legal issues by lining up
+  private organizations to provide the money to run the sites,
+  which will begin with two locations with more to follow.
+  Overdose fears haven’t been borne out elsewhere. As for
+  public unease, San Francisco has become more upset over
+  rampant drug use than over any doubts about a promising
+  innovation.
+
+  Richard Chenery rests after injecting heroin at the Insite
+  clinic in Vancouver, B.C., North America’s first legal
+  injection site.
+ 
+  SF safe injection sites expected to be first in nation, open
+
+
+  San Francisco moving toward opening nation’s 1st safe
+  injection
+
+  Why SF should open a supervised drug-injection facility
+
+  This city won’t be alone. Philadelphia announced last month
+  it will work with local groups to open injection sites.
+  Seattle, Denver and Baltimore are also moving in the same
+  direction. Fueling the urgency is a wave of drug deaths
+  linked to opioids and heroin that totaled 63,000 fatalities
+  in 2016. That astonishing number, larger than U.S. combat
+  deaths in Vietnam, is easing official reluctance city by
+  city.
+
+  The spreading plans could be curtailed if the Trump
+  administration chooses to block the sites through drug raids
+  or court challenges. But that worry is too uncertain to stop
+  a groundswell idea that needs to get under way.
+
+  At best, the injection sites can dent a much larger problem.
+  There needs to be more emphasis and money for medical
+  treatment, rehabilitation and programs that treat addiction,
+  not punish it. That leadership is missing in Washington,
+  where the president’s endless emphasis on drug crime masks
+  his failure to provide serious leadership.
+
+  Injection sites are an innovation that can reduce fatal
+  overdoses by addicts and accidental needle sticks on the
+  streets. The status quo is intolerable. It’s time for San
+  Francisco to give them a try.}))
 
  @a[name: "sifma"]
  @h1{SIFMA NOW in the news}
@@ -1195,8 +1289,6 @@
                    (youtube "aM3VSu-yLYM"))
              (list "New York Times video"
                    (youtube "v6NJPjpelKM"))
-             (list "Anywhere but safe: Public Injecting in New York (documentary by Matt Curtis)"
-                   (youtube "uDOWVsxtfQQ"))
              (list "A Safe Injection Site saves lives and controls HIV"
                    (youtube "1b4rv9Y3eI8")))
 }
