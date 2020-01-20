@@ -87,7 +87,7 @@
   (list*
    @html:footer[class: "container"]{
      @div[class: "copyright"]{
-       @p[style: "float:left"]{Copyright © 2019 ????}}}
+       @p[style: "float:left"]{Copyright © 2019}}}
    ;@script[src: "/js/bootstrap.min.js"]
    rest))
 
