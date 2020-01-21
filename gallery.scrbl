@@ -25,6 +25,8 @@
 
 @page[#:title "Our Work"]{
 
+ @captioned-image["mattfein.jpg"]{Matt Fein, LICSW, testified at the Statehouse alongside Zoi Andalcio, LMHC, in support of piloting safe consumption sites in MA. These two emphasized the mental and behavioral health - and life-saving - necessity of this harm reduction approach. In his testimony, Matt stated, “Conversations with fellow social workers have made it apparent that this loss of life is felt in every aspect of the lives of persons in this state and the systems that support them.”}
+
  @captioned-image["Aubrey-at-BU-School-of-Public-Health-e1527357278313.jpg"]{SIFMA NOW co-founder, Aubri Esters, explains SIFs’ benefits and signs up new recruits at the BU School of Public Health in the fight to increase harm reduction services in Massachusetts.}
 
  @captioned-image["Katrina-in-tent-explaining.png"]{Dr. Katrina Ciraldo, South Boston Health Center, and SIFMA NOW co-founder, explains how a mobile Supervised Site might work in the field.}
